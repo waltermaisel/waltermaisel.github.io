@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/waltmaisel/waltmaisel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can find my software work, including my webgame [Salt Bae: the Game](https://github.com/waltmaisel/SaltBae-WebGame), as well as information on me, on this page. (You can play the aforementioned game [here](https://htmlpreview.github.com/?https://github.com/waltmaisel/SaltBae-WebGame/blob/master/saltbaethegame.html).)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to browse a bit and learn more about me.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Schools at which I've completed programs:
 
-```markdown
-Syntax highlighted code block
+- Alabama School of Mathematics and Science (Graduation Certificate)
+- New College of Florida (Bachelor of Arts in Music)
 
-# Header 1
-## Header 2
-### Header 3
+### Projects
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waltmaisel/waltmaisel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My latest project is a Phaser 3 based webgame entitled [Salt Bae: the Game](https://github.com/waltmaisel/SaltBae-WebGame) (Play it [here](https://htmlpreview.github.com/?https://github.com/waltmaisel/SaltBae-WebGame/blob/master/saltbaethegame.html).)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to get in touch with me? Email me at _walter.maisel@ncf.edu_ and we’ll chat!
